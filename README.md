@@ -1,6 +1,6 @@
-I'm shutting this down. It was a great exercise in understanding php, pg, slim & more, but it didn't end up being a necessary component for any system. i have improved it somewhat off-repo and am using that in an ecommerce project, but it's expected lifetime is short. I recommend looking at the following for better projects with similar aims. You'll have to leave PHP, which you should, and so should i.
+I'm shutting this down. It was a great exercise in understanding php, pg, slim & more, but it didn't end up being a necessary component for any system. i have improved it somewhat off-repo and am using that in an ecommerce project, but it's expected lifetime is short. I recommend looking at the following for better projects with similar aims. You'll have to leave PHP, which you should, and so should i.  
 
-https://activeadmin.info/
+https://activeadmin.info/  
 https://github.com/smpallen99/ex_admin
 
 # Slim-Postgres  
