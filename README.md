@@ -1,3 +1,8 @@
+I'm shutting this down. It was a great exercise in understanding php, pg, slim & more, but it didn't end up being a necessary component for any system. i have improved it somewhat off-repo and am using that in an ecommerce project, but it's expected lifetime is short. I recommend looking at the following for better projects with similar aims. You'll have to leave PHP, which you should, and so should i.
+
+https://activeadmin.info/
+https://github.com/smpallen99/ex_admin
+
 # Slim-Postgres  
 Slim-Postgres is a <a target="_blank" href="https://www.php.net">PHP</a> framework based on <a target="_blank" href="https://www.slimframework.com/">Slim Micro-Framework</a> and <a target="_blank" href="https://www.postgresql.org/">PostgreSQL</a>. It has a built-in administrative interface and other tools to allow rapid web app development.  
     
